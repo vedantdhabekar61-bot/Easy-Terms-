@@ -1,0 +1,5 @@
+{
+  "name": "RiskScanner",
+  "description": "A privacy-focused legal risk analysis tool that translates contracts into plain English and highlights red flags using Gemini AI.",
+  "requestFramePermissions": []
+}
